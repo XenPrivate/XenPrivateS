@@ -1,0 +1,8 @@
+_G.aimlock = true 
+getgenv().ToggleKey = ("q")
+_G.Prediction = ("1.315") _G.FOV = ("100")
+getgnv().ResolverToggleKey = ("c")
+_Thickness. = ("30") 
+getgenv().RAGEMode = false
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Nessa-Rurina/Nosslock/main/SilentAim.lua"), true))()
